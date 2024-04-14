@@ -88,3 +88,16 @@ footer.footer-container {
   flex-wrap: wrap;
   justify-content: center;
 }
+
+
+.icon-container{
+  display: inline-flex;
+ 
+
+}
+
+.icon-container img{
+  margin: 5px;
+  height: 2rem;
+  width: 2rem;
+}
