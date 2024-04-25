@@ -10,15 +10,14 @@ const Home = () => {
       </h1>
       <div>
         <p className="text-lg ">
-          Your friendly neighborhood frontend developer. Hi there! I'm a
-          passionate web developer with a strong foundation in bringing designs
-          to life through code. I recently graduated from Anadolu University's
-          Web Design and Coding associate degree program and I'm constantly
-          striving to improve my skills, particularly in user experience (UX).
-          My goal is to become a well-rounded front-end developer by applying
-          web design principles effectively and expanding my knowledge. I'm
-          excited to tackle new challenges and contribute to projects that
-          prioritize a user-centric approach.
+          Hi there! I'm a passionate web developer with a strong foundation in
+          bringing designs to life through code. I recently graduated from
+          Anadolu University's Web Design and Coding associate degree program
+          and I'm constantly striving to improve my skills, particularly in user
+          experience (UX). My goal is to become a well-rounded front-end
+          developer by applying web design principles effectively and expanding
+          my knowledge. I'm excited to tackle new challenges and contribute to
+          projects that prioritize a user-centric approach.
         </p>
       </div>
       <a href="about">

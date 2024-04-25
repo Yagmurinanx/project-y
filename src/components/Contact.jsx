@@ -38,7 +38,6 @@ const Contact = () => {
       return;
     }
 
-    // Submit the form data
     try {
       const response = await fetch(
         "https://formsubmit.co/yumin0095@email.com",
@@ -71,7 +70,12 @@ const Contact = () => {
     <div className="max-w-screen-xl mx-auto p-4">
       <h1 className="text-3xl fw-b">Contact</h1>
       <p>Get in touch or shoot me an email directly on</p>
-      <b>ygmrinan00@gmail.com</b>
+      <a
+        href="mailto:ygmrinan00@gmail.com"
+        className="mail font-bold  hover:text-violet-700  "
+      >
+        ygmrinan00@gmail.com
+      </a>
 
       <div className="form-container">
         <form className="form" onSubmit={handleSubmit}>

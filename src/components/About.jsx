@@ -103,17 +103,17 @@ const About = () => {
           </p>
         </div>
 
-        <h2 className="text-2xl font-semibold mb-4">Volunteer Experience</h2>
-
-        <div className="mb-8">
-          <p>2022: LÖSEV (Erciyes University)</p>
-        </div>
 
         <h2 className="text-2xl font-semibold mb-4">
           Additional Courses & Certifications
         </h2>
 
         <div className="mb-8">
+        <p>
+            {" "}
+            STEMWOMEN (120 Hours) SistersLab - Association for Women in
+            Science and Technology{" "}
+          </p>
           <p>
             {" "}
             FrontEnd Academy (120 Hours) SistersLab - Association for Women in
